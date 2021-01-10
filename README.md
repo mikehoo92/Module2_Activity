@@ -1,6 +1,6 @@
 # *Module2_Activity*
 
-![markdown-image](readme_image.png)
+![markdown-image](markdown-readme_image.png)
 
 > "...to boldly go where no one has gone before"
 
